@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/external_peripherals/led_rgb/src/sapi_rgb.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/external_peripherals/led_rgb/src/sapi_rgb.o: \
  libs/sapi/sapi_v0.5.2/external_peripherals/led_rgb/src/sapi_rgb.c \
  libs/sapi/sapi_v0.5.2/external_peripherals/led_rgb/inc/sapi_rgb.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi.h \

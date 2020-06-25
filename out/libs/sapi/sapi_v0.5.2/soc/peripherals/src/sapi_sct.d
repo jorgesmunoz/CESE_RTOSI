@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_sct.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_sct.o: \
  libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_sct.c \
  libs/sapi/sapi_v0.5.2/soc/peripherals/inc/sapi_sct.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi_datatypes.h \

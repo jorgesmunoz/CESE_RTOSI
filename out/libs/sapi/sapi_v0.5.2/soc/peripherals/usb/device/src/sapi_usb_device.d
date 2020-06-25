@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/sapi_usb_device.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/sapi_usb_device.o: \
  libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/sapi_usb_device.c \
  libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/inc/sapi_usb_device.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi_datatypes.h \

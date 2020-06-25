@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/seos_pont_2014//src/seos_pont_2014_scheduler.o: \
+_programs/RTOSI_TP/out/libs/seos_pont_2014//src/seos_pont_2014_scheduler.o: \
  libs/seos_pont_2014//src/seos_pont_2014_scheduler.c \
  libs/seos_pont_2014//inc/seos_pont_2014_scheduler.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi.h \

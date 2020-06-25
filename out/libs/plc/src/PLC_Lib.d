@@ -1,7 +1,7 @@
-_programs/rtos_uart_led_tec/out/libs/plc//src/PLC_Lib.o: \
- libs/plc//src/PLC_Lib.c libs/plc//inc/PLC_Lib.h \
- libs/plc//inc/PLC_Services.h libs/plc//inc/PLC_StandardCDataTypes.h \
- libs/plc//inc/PLC_Hardware.h libs/sapi/sapi_v0.5.2/base/inc/sapi.h \
+_programs/RTOSI_TP/out/libs/plc//src/PLC_Lib.o: libs/plc//src/PLC_Lib.c \
+ libs/plc//inc/PLC_Lib.h libs/plc//inc/PLC_Services.h \
+ libs/plc//inc/PLC_StandardCDataTypes.h libs/plc//inc/PLC_Hardware.h \
+ libs/sapi/sapi_v0.5.2/base/inc/sapi.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi_datatypes.h \
  libs/lpc_open/lpc_chip_43xx/inc/chip.h \
  libs/lpc_open/lpc_chip_43xx/inc/sys_config.h \

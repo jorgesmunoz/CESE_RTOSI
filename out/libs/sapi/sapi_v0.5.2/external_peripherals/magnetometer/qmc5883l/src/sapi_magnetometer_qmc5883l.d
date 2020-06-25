@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/external_peripherals/magnetometer/qmc5883l/src/sapi_magnetometer_qmc5883l.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/external_peripherals/magnetometer/qmc5883l/src/sapi_magnetometer_qmc5883l.o: \
  libs/sapi/sapi_v0.5.2/external_peripherals/magnetometer/qmc5883l/src/sapi_magnetometer_qmc5883l.c \
  libs/sapi/sapi_v0.5.2/external_peripherals/magnetometer/qmc5883l/inc/sapi_magnetometer_qmc5883l.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi_datatypes.h \

@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/abstract_modules/src/sapi_stdio.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/abstract_modules/src/sapi_stdio.o: \
  libs/sapi/sapi_v0.5.2/abstract_modules/src/sapi_stdio.c \
  libs/sapi/sapi_v0.5.2/abstract_modules/inc/sapi_stdio.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi.h \

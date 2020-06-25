@@ -1,7 +1,6 @@
-_programs/rtos_uart_led_tec/out/libs/freertos/source/portable/ARM_CM4F/port.o: \
+_programs/RTOSI_TP/out/libs/freertos/source/portable/ARM_CM4F/port.o: \
  libs/freertos/source/portable/ARM_CM4F/port.c \
- libs/freertos/include/FreeRTOS.h \
- _programs/rtos_uart_led_tec/inc/FreeRTOSConfig.h \
+ libs/freertos/include/FreeRTOS.h _programs/RTOSI_TP/inc/FreeRTOSConfig.h \
  libs/lpc_open/lpc_chip_43xx/inc/chip.h \
  libs/lpc_open/lpc_chip_43xx/inc/sys_config.h \
  libs/lpc_open/lpc_chip_43xx/inc/cmsis.h \

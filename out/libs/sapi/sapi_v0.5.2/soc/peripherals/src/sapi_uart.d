@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_uart.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_uart.o: \
  libs/sapi/sapi_v0.5.2/soc/peripherals/src/sapi_uart.c \
  libs/sapi/sapi_v0.5.2/soc/peripherals/inc/sapi_uart.h \
  libs/sapi/sapi_v0.5.2/abstract_modules/inc/sapi_delay.h \

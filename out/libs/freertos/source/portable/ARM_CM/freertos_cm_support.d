@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/freertos/source/portable/ARM_CM/freertos_cm_support.o: \
+_programs/RTOSI_TP/out/libs/freertos/source/portable/ARM_CM/freertos_cm_support.o: \
  libs/freertos/source/portable/ARM_CM/freertos_cm_support.c \
  libs/freertos/source/portable/lpc4337/freertos_lpc4337.h \
  libs/lpc_open/lpc_chip_43xx/inc/chip.h \

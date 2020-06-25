@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o: \
+_programs/RTOSI_TP/out/libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.o: \
  libs/lpc_open/lpc_chip_43xx/src/gpio_18xx_43xx.c \
  libs/lpc_open/lpc_chip_43xx/inc/chip.h \
  libs/lpc_open/lpc_chip_43xx/inc/sys_config.h \

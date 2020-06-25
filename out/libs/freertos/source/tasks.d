@@ -1,6 +1,6 @@
-_programs/rtos_uart_led_tec/out/libs/freertos/source/tasks.o: \
+_programs/RTOSI_TP/out/libs/freertos/source/tasks.o: \
  libs/freertos/source/tasks.c libs/freertos/include/FreeRTOS.h \
- _programs/rtos_uart_led_tec/inc/FreeRTOSConfig.h \
+ _programs/RTOSI_TP/inc/FreeRTOSConfig.h \
  libs/lpc_open/lpc_chip_43xx/inc/chip.h \
  libs/lpc_open/lpc_chip_43xx/inc/sys_config.h \
  libs/lpc_open/lpc_chip_43xx/inc/cmsis.h \

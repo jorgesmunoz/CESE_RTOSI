@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/usbd_keyboard.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/usbd_keyboard.o: \
  libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/src/usbd_keyboard.c \
  libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/inc/usbd_keyboard.h \
  libs/sapi/sapi_v0.5.2/soc/peripherals/usb/device/inc/lpc_app_usbd_cfg.h \

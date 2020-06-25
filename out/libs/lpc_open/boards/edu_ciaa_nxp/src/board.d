@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o: \
+_programs/RTOSI_TP/out/libs/lpc_open/boards/edu_ciaa_nxp/src/board.o: \
  libs/lpc_open/boards/edu_ciaa_nxp/src/board.c \
  libs/lpc_open/boards/edu_ciaa_nxp/inc/board.h \
  libs/lpc_open/lpc_chip_43xx/inc/chip.h \

@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/plc//src/PLC_Registers.o: \
+_programs/RTOSI_TP/out/libs/plc//src/PLC_Registers.o: \
  libs/plc//src/PLC_Registers.c libs/plc//inc/PLC_Registers.h \
  libs/plc//inc/PLC_1KByteStructures.h \
  libs/plc//inc/PLC_ElementaryDataTypes.h libs/plc//inc/PLC_Services.h \

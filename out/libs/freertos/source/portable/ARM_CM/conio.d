@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/freertos/source/portable/ARM_CM/conio.o: \
+_programs/RTOSI_TP/out/libs/freertos/source/portable/ARM_CM/conio.o: \
  libs/freertos/source/portable/ARM_CM/conio.c \
  libs/freertos/source/portable/ARM_CM/conio.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi.h \

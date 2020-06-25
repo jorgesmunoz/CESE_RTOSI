@@ -1,4 +1,4 @@
-_programs/rtos_uart_led_tec/out/libs/sapi/sapi_v0.5.2/external_peripherals/display/lcd/src/sapi_lcd.o: \
+_programs/RTOSI_TP/out/libs/sapi/sapi_v0.5.2/external_peripherals/display/lcd/src/sapi_lcd.o: \
  libs/sapi/sapi_v0.5.2/external_peripherals/display/lcd/src/sapi_lcd.c \
  libs/sapi/sapi_v0.5.2/external_peripherals/display/lcd/inc/sapi_lcd.h \
  libs/sapi/sapi_v0.5.2/base/inc/sapi.h \
